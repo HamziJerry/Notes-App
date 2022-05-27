@@ -4,3 +4,4 @@ Note taking website application with features like add notes, delete notes, back
 
 ## Live Working Project Url
 
+https://hamzijerry.github.io/Notes-App/
